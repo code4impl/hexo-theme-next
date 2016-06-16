@@ -238,10 +238,10 @@ mathjax:
 baidu_analytics: c3fc0a535230a8e89ab2decc91406ffe
 
 # Duoshuo ShortName
-duoshuo_shortname: code4impl
+#duoshuo_shortname: code4impl
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: code4impl
 
 # Baidu Share
 # Available value:
